@@ -17,3 +17,4 @@ My intended users are women who don’t have the confidence to be themselves. Be
 
 How will your user interact with your website?
 They will be able to read the misconceptions of beauty standards, see the difference between the types of beauty standards so that they can see that there exists more than one. The point will be everyone will make their
+
